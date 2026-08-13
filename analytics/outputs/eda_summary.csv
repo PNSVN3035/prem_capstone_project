@@ -1,0 +1,12 @@
+metric,value
+age_outlier_count,65.0
+fare_outlier_count,114.0
+fare_mean,32.1
+fare_median,14.45
+fare_mode,8.05
+male_survival_rate,18.89
+female_survival_rate,74.04
+class_1_survival_rate,62.62
+class_2_survival_rate,47.28
+class_3_survival_rate,24.24
+female_or_first_class_rate,63.59
