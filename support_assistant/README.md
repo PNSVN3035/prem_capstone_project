@@ -1,4 +1,4 @@
-# Module 3 — Zepto Support Assistant
+# Module 3 — Support Assistant
 
 ## Overview
 
