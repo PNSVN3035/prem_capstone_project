@@ -7,3 +7,9 @@ seaborn
 scikit-learn
 imbalanced-learn
 joblib
+sentence-transformers
+chromadb
+langgraph
+fastapi
+uvicorn
+pydantic
